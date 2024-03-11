@@ -1,0 +1,1 @@
+<view class="content"><z-swiper wx:if="{{c}}" u-s="{{['d']}}" u-i="4ae1baca-0" bind:__l="__l" bindupdateModelValue="{{b}}" u-p="{{c}}"><z-swiper-item wx:for="{{a}}" wx:for-item="item" wx:key="b" u-s="{{['d']}}" u-i="{{item.c}}" bind:__l="__l"><text class="swiper-item">{{item.a}}</text></z-swiper-item></z-swiper></view>

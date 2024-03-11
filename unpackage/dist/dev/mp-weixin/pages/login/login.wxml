@@ -1,0 +1,1 @@
+<view class="content"><text class="login-text">登录</text><image src="/static/login-bg.png" mode="widthFix" class="login-bg"></image><view class="form"></view></view>
